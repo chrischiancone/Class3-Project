@@ -1,9 +1,9 @@
 # Getting-Clean-Data
-#Credits, Many thanks to Google, without I would have been stuck!
-This is there the R application begins. If you are on a MAc, you need to install RCurl from CRAN (install.oackages("RCurl"")
+#Credits, many thanks to Google, without I would have been stuck!
+This is where the R application begins. If you are on a MAC, you need to install RCurl from CRAN (install.oackages("RCurl"")
 #Begin*************************************************************************************************************************
 
-I decided due to the amount of files to be read, to break up the folder with Data and Output files.The DataWorkingDir sets a variable to read the location of the UCI raw data.
+I decided, due to the amount of files to be read, to break up the folder with Data and Output files.The DataWorkingDir sets a variable to read the location of the UCI raw data.
 
 #****Set Working Directory*************************************************************
 DataWorkingDir <- "~/Dropbox/R/Class3/Project/Data/UCI Data"
